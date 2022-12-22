@@ -1,2 +1,4 @@
 # Maquinavirtual
 Máquina virtual para el taller de diseño de circuitos integrados
+
+Para probarla, primero deben descargar la última versión de Oracle VM VirtualBox, tengo entendido que es la 7.0, e importarla. Una vez instalado Oracle VM VirtualBox, importaremos la máquina virtual que se encuentra en el link de arriba. Para esto, abran Oracle VM VirtualBox, desplieguen la opción "File" que se encuentra en la esquina superior izquierda y después seleccionen la opción "Import Appliance" correspondiente a la flecha naranja. Una vez seleccionada esta opción, seleccionen el archivo de la máquina virtual donde lo guardaron. Las opciones que mencioné anteriormente están en inglés porque mi Oracle VirtualBox está en inglés, puede que ustedes instalen el programa en español, así que los nombre van a diferir.
